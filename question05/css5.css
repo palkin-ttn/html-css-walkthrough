@@ -13,7 +13,7 @@ body {
 body {
 	display: grid;
 	place-items: center;
-	background-color: #C39BD3;
+	background-color: #D6EAF8;
 }
 
 table {
@@ -25,7 +25,7 @@ table {
 }
 
 thead {
-	background-color: indigo;
+	background-color: #EC7063;
 	color: white;
 	transform-style: preserve-3d;
 }
@@ -40,9 +40,9 @@ tbody {
 }
 
 tbody tr:nth-of-type(2n) {
-	background-color: rgb(110, 154, 249);
+	background-color: #D2B4DE;
 }
 
 tbody tr:nth-of-type(2n + 1) {
-	background-color: rgb(181, 204, 255);
+	background-color: #E8DAEF;
 }
